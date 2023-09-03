@@ -1,0 +1,6 @@
+﻿  ChatApp.cpp
+C:\Users\SSI\source\repos\ChatApp\ChatApp\ChatApp.cpp(32,27): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\SSI\source\repos\ChatApp\ChatApp\ChatApp.cpp(70,31): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\SSI\source\repos\ChatApp\ChatApp\ChatApp.cpp(104,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\SSI\source\repos\ChatApp\ChatApp\ChatApp.cpp(108,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatApp.vcxproj -> C:\Users\SSI\source\repos\ChatApp\x64\Debug\ChatApp.exe
